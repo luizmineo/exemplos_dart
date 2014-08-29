@@ -1,0 +1,6 @@
+name: ola_mundo_web
+description: Exemplo de aplicação web Dart
+dependencies:
+  browser: any
+  redstone: '>= 0.5.13 <0.6.0'
+  shelf_static: '>=0.2.0 <0.3.0'
